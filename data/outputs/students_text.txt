@@ -1,0 +1,21 @@
+student_id name
+age
+grade
+average_score
+1 Juan Perez
+20 2A
+8,5
+2 Maria Gom
+21 2A
+9,1
+3 Lucas Ferna
+19 1B
+7,4
+4 Ana Lopez
+22 3C
+8,9
+5 Sofia Marti
+20 2B
+9,3
+
+

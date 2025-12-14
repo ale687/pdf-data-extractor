@@ -46,8 +46,7 @@ pdf-data-extractor/
 ├── requirements.txt
 └── README.md
 
-yaml
-Copiar código
+📌 The `data/inputs` and `data/outputs` folders include sample files for demonstration purposes.
 
 ---
 

@@ -27,8 +27,8 @@ Thumbs.db
 # =========================
 # Project specific
 # =========================
-data/outputs/
-data/inputs/
+#data/outputs/
+#data/inputs/
 
 # =========================
 # Logs
